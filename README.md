@@ -1,4 +1,4 @@
-# Simulation for Decision Making Repository
+# Simulations for Decision Making Course Repository
 
 This repository contains all assignments and the final project for the **Simulation for Decision Making** course.
 
